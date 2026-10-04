@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Zax Mashing Practice Tool</name>
+  <coder>SiirZax</coder>
+  <version>1.1</version>
+  <release_date>20261002000000</release_date>
+  <short_description>Mashing practice for GameCube controllers</short_description>
+  <long_description>Allows you to check your mashing per second on every button for GameCube controllers.
+
+Version 1.1
+
+© 2026 SiirZax</long_description>
+</app>
